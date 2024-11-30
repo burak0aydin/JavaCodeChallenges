@@ -16,7 +16,7 @@ This repository contains solutions to various programming exercises aimed at imp
   - Working with multidimensional arrays.
   - Class design for specific use cases.
 
-### WEEK 1.5: RECTANGLE, ACCOUNT, AND INTEGER CLASSES
+RECTANGLE, ACCOUNT, AND INTEGER CLASSES
 - **Objective**: Design and test classes with attributes, methods, and encapsulation.
 - **Tasks**:
   - Create `Rectangle` and `Account` classes with methods for calculations and transactions.
